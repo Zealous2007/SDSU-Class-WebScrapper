@@ -5,8 +5,8 @@ Finds Classes for that work with your SDSU schedule.
 
 Features:
  - Searches for Classes that work for your schedule
- - Tells you the Time Conflict (TC)
- - **Tells Professor's Rating**
+ - Specific Time Conflict (TC)
+ - **Professor's Rating**
 
 Filters:
  - wait=n, filters (seats available <= n)
